@@ -1,0 +1,6 @@
+# 项目排除路径
+/.gradle/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
+/util/build/
